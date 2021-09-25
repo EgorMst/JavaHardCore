@@ -1,5 +1,5 @@
 
-package Marathon;
+package урок1.Marathon;
 
 public class Course
 {

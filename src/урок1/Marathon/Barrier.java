@@ -1,4 +1,4 @@
-package Marathon;
+package урок1.Marathon;
 
 public abstract class Barrier
 {
